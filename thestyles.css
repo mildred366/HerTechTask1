@@ -95,10 +95,10 @@ button {
     text-align: center;
 }
 
-.imagetext a:hover {
+/* .imagetext a:hover { */
     /* background-color: #111111; */
-    color: orange;
-}
+    /* color: orange; */
+/* } */
 
 .maindiv1 img {
     width: 90%;
@@ -115,4 +115,9 @@ button {
     display: flex;
     justify-content: space-evenly;
     padding: 60px 0px;
+}
+    
+.addedClass {
+    /* background-color: black; */
+    color: orange;
 }
