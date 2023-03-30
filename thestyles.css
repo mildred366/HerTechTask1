@@ -95,10 +95,10 @@ button {
     text-align: center;
 }
 
-/* .imagetext a:hover { */
-    /* background-color: #111111; */
-    /* color: orange; */
-/* } */
+.imagetext a:hover {
+    background-color: #111111;
+    color: orange;
+}
 
 .maindiv1 img {
     width: 90%;
